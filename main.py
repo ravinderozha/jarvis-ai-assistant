@@ -73,7 +73,7 @@ def listen():
 # ---------------------------
 def run_jarvis():
 
-    speak("Hello Sir. Jarvis is ready.")
+    speak("Hello. Jarvis is ready.")
 
     while True:
 
